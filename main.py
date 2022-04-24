@@ -6,4 +6,4 @@ time.sleep(5)
 
 for word in spam_codes_file:
     pyautogui.typewrite(word)
-    pyuatohui.press('enter')
+    pyuatogui.press('enter')
